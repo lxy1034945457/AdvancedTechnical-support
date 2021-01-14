@@ -1,1 +1,5 @@
-# AdvancedTechnical-support
+
+
+本平台是专为运动爱好者提供。可以在这里观看运动技术技巧视频，也可以和其他云顶爱好者一起评拼团学习运动课程
+
+如果您有任何问题，请联系技术支持邮箱:fangqingzxc@icloud.com。谢谢你的支持。
